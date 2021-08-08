@@ -1,0 +1,5 @@
+.yarn-inegrity
+node_modules
+
+.env
+dist
